@@ -24,7 +24,10 @@
 Check out my recent coding activity and preferred languages:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ihasautism\&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ihasautism\&layout=compact)](https://wakatime.com/@9b93cc71-6292-4302-b002-6247f836fc33)
+
+
+[![wakatime](https://wakatime.com/badge/user/9b93cc71-6292-4302-b002-6247f836fc33.svg)](https://wakatime.com/@9b93cc71-6292-4302-b002-6247f836fc33)
 <!--
 &hide=html,css,shell&theme=buefy
 -->
