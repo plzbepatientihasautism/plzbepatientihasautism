@@ -24,7 +24,7 @@
 Check out my recent coding activity and preferred languages:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ihasautism&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ihasautism\&layout=compact)
 <!--
 &hide=html,css,shell&theme=buefy
 -->
