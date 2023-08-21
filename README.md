@@ -24,10 +24,10 @@
 Check out my recent coding activity and preferred languages:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ihasautism)](https://wakatime.com/@9b93cc71-6292-4302-b002-6247f836fc33)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ihasautism)](https://wakatime.com/@ihasautism)
 
 
-[![wakatime](https://wakatime.com/badge/user/9b93cc71-6292-4302-b002-6247f836fc33.svg)](https://wakatime.com/@9b93cc71-6292-4302-b002-6247f836fc33)
+[![wakatime](https://wakatime.com/badge/user/9b93cc71-6292-4302-b002-6247f836fc33.svg)](https://wakatime.com/@ihasautism)
 <!--
 &hide=html,css,shell&theme=buefy
 -->
